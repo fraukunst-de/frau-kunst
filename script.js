@@ -1,0 +1,1 @@
+console.log('FRAU KUNST site loaded');
